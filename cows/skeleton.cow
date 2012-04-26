@@ -1,15 +1,10 @@
-##
-## This 'Scowleton' brought to you by one of 
-## {appel,kube,rowe}@csua.berkeley.edu
-##
-$the_cow = <<EOC;
-          $thoughts      (__)      
-           $thoughts     /$eyes|  
-            $thoughts   (_"_)*+++++++++*
-                   //I#\\\\\\\\\\\\\\\\I\\
+{$balloon}
+      {$tl}          (__)      
+         {$tl}       /{$el}{$er}|  
+            {$tl}   (_"_)*+++++++++*
+                   //I#\\\\\\\\I\
                    I[I|I|||||I I `
                    I`I'///'' I I
                    I I       I I
                    ~ ~       ~ ~
                      Scowleton
-EOC

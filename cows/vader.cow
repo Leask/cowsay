@@ -1,13 +1,9 @@
-##
-## Cowth Vader, from geordan@csua.berkeley.edu
-##
-$the_cow = <<EOC;
-        $thoughts    ,-^-.
-         $thoughts   !oYo!
-          $thoughts /./=\\.\\______
-               ##        )\\/\\
+{$balloon}
+        {$tl}    ,-^-.
+         {$tl}   !oYo!
+          {$tl} /./=\.\______
+               ##        )\/\
                 ||-----w||
                 ||      ||
 
                Cowth Vader
-EOC

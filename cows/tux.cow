@@ -1,16 +1,10 @@
-##
-## TuX
-## (c) pborys@p-soft.silesia.linux.org.pl 
-##
-$the_cow = <<EOC;
-   $thoughts
-    $thoughts
+{$balloon}
+   {$tl}
+    {$tl}
         .--.
        |o_o |
        |:_/ |
-      //   \\ \\
+      //   \ \
      (|     | )
-    /'\\_   _/`\\
-    \\___)=(___/
-
-EOC
+    /'\_   _/`\
+    \___)=(___/

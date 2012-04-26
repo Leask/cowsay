@@ -1,12 +1,8 @@
-##
-## Satanic cow, source unknown.
-##
-$the_cow = <<EOC;
-     $thoughts
-      $thoughts  (__)  
-         (\\/)  
-  /-------\\/    
+{$balloon}
+     {$tl}
+      {$tl}  (__)  
+         (\/)  
+  /-------\/    
  / | 666 ||    
 *  ||----||      
    ~~    ~~      
-EOC

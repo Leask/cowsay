@@ -1,11 +1,64 @@
-ChangeLog		Changes to recent versions.
-INSTALL			Instructions for installing cowsay.
-LICENSE			The license for use and redistribution of cowsay.
-MANIFEST		This file.
-README			Read this first.  Really.
-Wrap.pm.diff		Diff for Text/Wrap.pm.
-cows/*			Support files used by cowsay.
-cowsay			Main cowsay executable.
-cowsay.1		Main cowsay manual page.
-install.sh		cowsay installation script.
-pgp_public_key.txt	Verify the signature file with this key.
+Changes
+Cow.pm
+Cow/DragonAndCow.pm
+Cow/Example.pm
+Cow/Frogs.pm
+Cow/MechAndCow.pm
+Cow/Stegosaurus.pm
+Cow/TextBalloon.pm
+Cow/TuxStab.pm
+MANIFEST
+Makefile.PL
+README
+cows/bong.cow
+cows/bunny.cow
+cows/cheese.cow
+cows/cower.cow
+cows/daemon.cow
+cows/default.cow
+cows/dragon.cow
+cows/elephant-in-snake.cow
+cows/elephant.cow
+cows/eyes.cow
+cows/flaming-sheep.cow
+cows/ghostbusters.cow
+cows/head-in.cow
+cows/hellokitty.cow
+cows/jkh.cow
+cows/kiss.cow
+cows/kitty.cow
+cows/koala.cow
+cows/kosh.cow
+cows/luke-koala.cow
+cows/meow.cow
+cows/milk.cow
+cows/moofasa.cow
+cows/moose.cow
+cows/mutilated.cow
+cows/ren.cow
+cows/satanic.cow
+cows/sheep.cow
+cows/skeleton.cow
+cows/small.cow
+cows/sodomized.cow
+cows/stimpy.cow
+cows/supermilker.cow
+cows/surgery.cow
+cows/telebears.cow
+cows/three-eyes.cow
+cows/turkey.cow
+cows/turtle.cow
+cows/tux.cow
+cows/udder.cow
+cows/vader-koala.cow
+cows/vader.cow
+cows/www.cow
+cows/zen-beavis.cow
+cowsay
+cowthink
+cowpm
+t/balloon.t
+t/cow.t
+t/eyes.cow
+t/file.t
+t/pm.t

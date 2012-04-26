@@ -1,10 +1,6 @@
-##
-## A cow wadvertising the World Wide Web, from lim@csua.berkeley.edu
-##
-$the_cow = <<EOC;
-        $thoughts   ^__^
-         $thoughts  ($eyes)\\_______
-            (__)\\       )\\/\\
-             $tongue ||--WWW |
+{$balloon}
+        {$tl}   ^__^
+         {$tl}  ({$el}{$er})\_______
+            (__)\       )\/\
+             {$U} ||--WWW |
                 ||     ||
-EOC

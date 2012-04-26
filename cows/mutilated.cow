@@ -1,10 +1,6 @@
-##
-## A mutilated cow, from aspolito@csua.berkeley.edu
-##
-$the_cow = <<EOC;
-       $thoughts   \\_______
- v__v   $thoughts  \\   O   )
- ($eyes)      ||----w |
- (__)      ||     ||  \\/\\
-  $tongue
-EOC
+{$balloon}
+       {$tl}   \_______
+ v__v   {$tl}  \   O   )
+ ({$el}{$er})      ||----w |
+ (__)      ||     ||  \/\
+  {$U}

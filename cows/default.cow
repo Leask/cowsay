@@ -1,7 +1,6 @@
-$the_cow = <<"EOC";
-        $thoughts   ^__^
-         $thoughts  ($eyes)\\_______
-            (__)\\       )\\/\\
-             $tongue ||----w |
+{$balloon}
+       {$tl}    ^__^
+         {$tl}  ({$el}{$er})\_______
+            (__)\       )\/\
+             {$U} ||----w |
                 ||     ||
-EOC

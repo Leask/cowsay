@@ -1,10 +1,6 @@
-##
-## A cow being milked, probably from Lars Smith (lars@csua.berkeley.edu)
-##
-$the_cow = <<EOC;
-  $thoughts   ^__^
-   $thoughts  ($eyes)\\_______        ________
-      (__)\\       )\\/\\    |Super |
-       $tongue ||----W |       |Milker|
+{$balloon}
+  {$tl}   ^__^
+   {$tl}  ({$el}{$er})\_______        ________
+      (__)\       )\/\    |Super |
+       {$U} ||----W |       |Milker|
           ||    UDDDDDDDDD|______|
-EOC

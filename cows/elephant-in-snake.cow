@@ -1,9 +1,6 @@
-##
-## Do we need to explain this?
-##
-$the_cow = <<EOC;
-   $thoughts
-    $thoughts              ....       
+{$balloon}
+   {$tl}
+    {$tl}              ....       
            ........    .      
           .            .      
          .             .      
@@ -11,4 +8,3 @@ $the_cow = <<EOC;
 ..............................
 
 Elephant inside ASCII snake
-EOC

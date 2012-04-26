@@ -1,15 +1,11 @@
-##
-## From the canonical koala collection
-##
-$the_cow = <<EOC;
-  $thoughts
-   $thoughts          .
+{$balloon}
+  {$tl}
+   {$tl}          .
        ___   //
-     {~._.~}// 
+     \{~._.~\}// 
       ( Y )K/  
      ()~*~()   
      (_)-(_)   
      Luke    
      Sywalker
      koala   
-EOC

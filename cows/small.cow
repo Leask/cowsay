@@ -1,10 +1,5 @@
-##
-## A small cow, artist unknown
-##
-$eyes = ".." unless ($eyes);
-$the_cow = <<EOC;
-       $thoughts   ,__,
-        $thoughts  ($eyes)____
-           (__)    )\\
-            $tongue||--|| *
-EOC
+{$balloon}
+      {$tl}    ,__,
+        {$tl}  ({$el}{$er})____
+           (__)    )\
+            {$U}||--|| *
